@@ -1,6 +1,18 @@
 Robot-Mafia
 produced by sql statement, have  three types: TANK, Mage, Priest, can summon help combat in the game .the robots can equip weapons,shields,other equipments can't to be used;have several AI.This code is suitable for latest trinitycore-TDB 335.61.
 //SQL语句生成，3种类型机器人：T、法师、牧师，在游戏中召唤；可以装备武器和盾，其他不能装备；有各种战斗和辅助AI，适应近期TC。
+
+
 pocket_npc
 produced by sql statement, have six functions: vendor, repair, inn, banks, auction houses, stables. This code is suitable for latest trinitycore-TDB 335.61.
 //随身NPC，SQL语句生成，适应近期TC，6 种功能： 商人、修理、银行、拍卖行、 旅馆、兽栏。
+
+
+NPC_Buffer
+suit for latest trinitycore-TDB 335.61.have 10 buff.
+//适应近期TC，有10种BUFF。
+
+
+Multitrainer
+weapons,profession,business,riding
+//全能训练大师：武器、职业、商业、骑术技能。
