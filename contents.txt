@@ -5,7 +5,7 @@ produced by sql statement, have  three types: TANK, Mage, Priest, can summon hel
 
 pocket_npc
 produced by sql statement, have six functions: vendor, repair, inn, banks, auction houses, stables. This code is suitable for latest trinitycore-TDB 335.61.
-//随身NPC，SQL语句生成，适应近期TC，6 种功能： 商人、修理、银行、拍卖行、 旅馆、兽栏。   335tc
+//随身NPC，SQL语句生成，适应近期TC，6 种功能： 商人、修理、银行、拍卖行、 旅馆、兽栏。    335tc
 
 
 NPC_Buffer
